@@ -8,4 +8,10 @@ Please use the main server rules as the primary source for understanding our pol
 The purpose of this additional documentation is to increase transparency on specific policies.
 We will aim to update this occasionally, and you may propose suggestions and additions in a support ticket.
 
+---
+
+## Blocked Words List
+You may view all the words blocked in our AutoMod filters in (📃 Blocked Word List)[blocked_words.md].
+This document contains the unfiltered language of our wordlists. We advise against accessing it for most people as certain words may be triggering.
+
 © 2026 Ancilla
